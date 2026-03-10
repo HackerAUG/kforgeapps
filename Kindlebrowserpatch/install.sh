@@ -3,17 +3,17 @@
 set -e
 
 TMPDIR=/mnt/us/KFPM-Temporary
+EXTDIR=/mnt/us/extensions
 mkdir -p "$TMPDIR"
+mkdir -p "$EXTDIR"
 
-# Download + Extract
-curl -fSL --progress-bar -o "$TMPDIR/kinamp.zip" https://github.com/emilypeto/KindleBrowserPatch/releases/latest/download/kinamp.zip
-unzip -oq "$TMPDIR/kindle_browser_patch-2.1.0-armhf.zip
-" -d /mnt/us
+# 1. Download directly to a consistent name
+curl -fSL --progress-bar -o "$TMPDIR/patch.zip" https://github.com
 
-cd kindle_browser_patch-2.1.0-armhf
-cp -r /mnt/us/KFPM-Temporary /mnt/us/extensions/
+# 2. Unzip directly into the extensions folder
+unzip -oq "$TMPDIR/patch.zip" -d "$EXTDIR"
 
-# Cleanup
+# 3. Cleanup
 rm -rf "$TMPDIR"
 
 exit 0
