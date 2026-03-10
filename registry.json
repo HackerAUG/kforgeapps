@@ -196,7 +196,7 @@
         "dependencies": ["kTerm"],
         "tags": ["DEVELOPMENT", "PRODUCTIVITY"]
     },
-    {
+        {
         "name": "KUAL",
         "uri": "KUAL",
         "description": "Kindle Unified Application Launcher",
