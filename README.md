@@ -1,6 +1,6 @@
 # Repository
 
-## The Official KindleForge Package Repository
+## This is a fork of the offical repo.
 
 *Hosted on https://hackeraug.github.io/kforgeapps/*
 
