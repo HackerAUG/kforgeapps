@@ -29,6 +29,8 @@ Current packages (22):
 - UpdateBlock Status
 - LARKPlayer
 - Alpine Linux
+- Kindle Browser Patch
+  
 
 Credits:
 
