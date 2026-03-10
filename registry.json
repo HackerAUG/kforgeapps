@@ -205,4 +205,13 @@
         "dependencies": [],
         "tags": ["UTILITY"]
     }
+    {
+        "name": "Kindle Browser Patch",
+        "uri": "Kindlebrowserpatch",
+        "description": "Patch to download any filetype, browse any protocol, and change search engine",
+        "author": "emilypeto",
+        "ABI": ["hf"],
+        "dependencies": [],
+        "tags": ["UTILITY", "PRODUCTIVITY"]
+    },
 ]
