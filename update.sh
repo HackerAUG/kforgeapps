@@ -33,7 +33,7 @@ alert "Updating..." "Updating KindleForge, Please Wait..."
 
 # Download + Extract
 curl -fSL -o "$TMPDIR/KindleForge.zip" \
-    https://github.com/KindleTweaks/KindleForge/releases/latest/download/KindleForge.zip
+    https://github.com/HackerAUG/KindleForge/releases/latest/download/KindleForge.zip
 
 unzip -q "$TMPDIR/KindleForge.zip" -d "$TMPDIR"
 
