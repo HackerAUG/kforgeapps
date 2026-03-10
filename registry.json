@@ -213,5 +213,5 @@
         "ABI": ["hf"],
         "dependencies": [],
         "tags": ["UTILITY", "PRODUCTIVITY"]
-    },
+    }
 ]
