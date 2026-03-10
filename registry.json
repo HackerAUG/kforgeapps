@@ -45,6 +45,15 @@
         "tags": ["UTILITY"]
     },
     {
+        "name": "Kindle Puzzle Collection",
+        "uri": "puzzlecollection",
+        "description": "Simon Tatham's Puzzle Collection - Kindle port",
+        "author": "kbarni",
+        "ABI": ["hf"],
+        "dependencies": [],
+        "tags": ["GAMES"]
+    },
+    {
         "name": "KindleFetch",
         "uri": "KindleFetch",
         "description": "Download Books From Anna's Archive",
