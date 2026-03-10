@@ -71,15 +71,6 @@
        "dependencies": [],
        "tags": ["UTILITY", "DEVELOPMENT"]
     },
-    {
-        "name": "Toggle KPP debug menu",
-        "uri": "debugmenu",
-        "description": "Enables or disables a debug menu in the quick access menu.",
-        "author": "Marek",
-        "ABI" ["hf", "sf"],
-        "dependencies": [],
-        "tags": ["DEVELOPMENT"]
-    },
     {   
         "name": "Gambatte-K2",
         "uri": "GambatteK2",
