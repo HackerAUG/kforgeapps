@@ -204,7 +204,7 @@
         "ABI": ["hf", "sf"],
         "dependencies": [],
         "tags": ["UTILITY"]
-    }
+    },
     {
         "name": "Kindle Browser Patch",
         "uri": "Kindlebrowserpatch",
