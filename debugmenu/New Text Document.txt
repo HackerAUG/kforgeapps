@@ -1,1 +1,0 @@
-curl https://scriptlets.notmarek.com/scriptlets/toggle_kpp_debug.sh
