@@ -2,7 +2,7 @@
 
 ## The Official KindleForge Package Repository
 
-*Hosted on https://kf.penguins184.xyz/*
+*Hosted on https://hackeraug.github.io/kforgeapps/*
 
 Current packages (22):
 
