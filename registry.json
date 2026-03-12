@@ -99,6 +99,15 @@
         "tags": ["GAMES"]
     },
     {
+        "name": "Toggle Debug Menu",
+        "uri": "debugmenu",
+        "description": "Enables or disables a debug menu in the quick access menu.",
+        "author": "Marek",
+        "ABI": ["hf"],
+        "dependencies": [],
+        "tags": ["UTILITY"]
+    },
+    {
         "name": "KWordle",
         "uri": "KWordle",
         "description": "Wordle Clone For Kindle",
