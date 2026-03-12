@@ -2,6 +2,6 @@
 
 set -e
 
-curl -fSL --progress-bar -o /mnt/us/documents/toggle-ads.sh https://kf.penguins184.xyz/ToggleAds/assets/toggle-ads.sh
+curl -fSL --progress-bar -o /mnt/us/documents/toggle_kpp_debug.sh https://hcakeraug.github.io/kforgeapps/debugmenu/assets/toggle_kpp_debug.sh
 
 exit 0
